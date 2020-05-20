@@ -17,3 +17,4 @@ The program I build throughout this course allows its user to manage, manipulate
 * Calculate the edit distance between two words and illustrate the path between them.
 * Markov Text Generator based on the imported text.
 
+![User Interface](https://github.com/StevenZ315/Text-Pro-App/blob/master/Sample.png)
